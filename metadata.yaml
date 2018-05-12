@@ -1,0 +1,28 @@
+_repo: The-Wayfarers_34776
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Snaith, J. C. (John Collis)
+    alias: Snaith, John Collis
+    birthdate: 1876
+    deathdate: 1936
+    gutenberg_agent_id: '37216'
+    url: http://www.gutenberg.org/2009/agents/37216
+description: ''
+gutenberg_issued: '2010-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34776'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcc 'PR'
+title: The Wayfarers
+url: http://www.gutenberg.org/ebooks/34776
